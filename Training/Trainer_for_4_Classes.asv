@@ -1,0 +1,3 @@
+function [W_list,w_lda_list,threshold_list] = Trainer_for_4_Classes(dataset1,dataset2,nof)
+    
+end
